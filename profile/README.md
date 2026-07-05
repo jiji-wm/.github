@@ -16,6 +16,7 @@ IPC surface designed for external tooling.
 | [**jiji-hamster**](https://github.com/jiji-wm/jiji-hamster) | Fork of the GNOME Hamster time tracker with block-based fact continuation and reporting. |
 | [**jiji-hamster-bridge**](https://github.com/jiji-wm/jiji-hamster-bridge) | Daemon bridging activity/workspace focus to Hamster time tracking. |
 | [**jiji-waybar**](https://github.com/jiji-wm/jiji-waybar) | Waybar fork with activity-aware workspace, window, and activities modules. MIT (tracks upstream Waybar). |
+| [**jiji-workspace**](https://github.com/jiji-wm/jiji-workspace) | The development workspace — cross-repo docs, build/install scripts, and the multi-agent loop tooling the projects are built with. |
 
 Bug reports and questions for any of these belong on the respective repo's issue tracker.
 
