@@ -25,8 +25,15 @@ structured review loop. The conditions:
   commits carry the equivalent house trailer
   `AI-Assisted: <mode> (<model-id>)`, which is also accepted. Trivial
   assistance (autocomplete-level) needs no disclosure.
-- Follow the repo's normal conventions; discuss large changes in an issue
-  before sending a big diff.
+- Follow the repo's normal conventions. For bigger ideas, you're always
+  welcome to open an issue and chat about it first — happy to point at
+  what's already planned and help find the approach most likely to land.
+  Optional, but it can spare you wasted effort: when a big PR dies, it's
+  usually not for code quality but for things visible up front — the
+  feature was already designed differently, collides with an invariant you
+  couldn't see from outside, or sits outside the project's scope. An issue
+  is also a great place to announce what you're building: it prevents
+  duplicate work and can draw in ideas, interest, and collaborators.
 
 If a contribution looks unreviewed by its author, expect it to be returned
 with a request to review it first rather than a detailed code review; if
