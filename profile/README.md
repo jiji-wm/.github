@@ -15,6 +15,7 @@ IPC surface designed for external tooling.
 | [**jiji-firefox-workspaces**](https://github.com/jiji-wm/jiji-firefox-workspaces) | Native-messaging host that restores Firefox windows to their workspaces across restarts. |
 | [**jiji-hamster**](https://github.com/jiji-wm/jiji-hamster) | Fork of the GNOME Hamster time tracker with block-based fact continuation and reporting. |
 | [**jiji-hamster-bridge**](https://github.com/jiji-wm/jiji-hamster-bridge) | Daemon bridging activity/workspace focus to Hamster time tracking. |
+| [**jiji-kbd-indicator**](https://github.com/jiji-wm/jiji-kbd-indicator) | Daemon coloring the focus ring by keyboard state — caps lock, layout, remote-window blends. |
 | [**jiji-waybar**](https://github.com/jiji-wm/jiji-waybar) | Waybar fork with activity-aware workspace, window, and activities modules. MIT (tracks upstream Waybar). |
 | [**jiji-workspace**](https://github.com/jiji-wm/jiji-workspace) | The development workspace — cross-repo docs, build/install scripts, and the multi-agent loop tooling the projects are built with. |
 
